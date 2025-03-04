@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className="bg-teal-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-xl font-bold">WASHINC - Sepatu</h1>
+        <h1 className="text-xl font-bold">WASHINC</h1>
         <nav>
           <Link className="px-2" to="/">Home</Link>
           <Link className="px-2" to="/about">About</Link>
